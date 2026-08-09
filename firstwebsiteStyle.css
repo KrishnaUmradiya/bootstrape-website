@@ -78,6 +78,17 @@
 .image-layout{
   background-color: #f6f1eb;
 }
+.book-img {
+    max-width: 350px;
+    width: 100%;
+}
+
+/* Mobile */
+@media (max-width: 576px) {
+    .book-img {
+        max-width: 220px;
+    }
+}
 .img-content{
   width: 60%;
 }
