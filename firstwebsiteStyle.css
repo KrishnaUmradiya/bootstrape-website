@@ -78,9 +78,9 @@
 .image-layout{
   background-color: #f6f1eb;
 }
-.book-img {
+.book-img {    
     max-width: 350px;
-    width: 100%;
+    /* width: 100%; */
 }
 
 /* Mobile */
